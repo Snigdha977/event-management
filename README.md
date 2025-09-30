@@ -1,7 +1,6 @@
 # 🎉 Event Manager
 
-A responsive, visually polished event management web app built with HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS. Designed as a front-end showcase by an aspiring AI Full Stack + MERN Developer, with future plans for backend integration and intelligent features.
-
+A responsive, visually polished event management web app built with HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS.
 ---
 
 ---
