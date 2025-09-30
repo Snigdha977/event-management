@@ -32,11 +32,11 @@ A responsive, visually polished event management web app built with HTML, CSS, J
 
 ## 🚀 How to Run Locally
 
-1. Clone or download the repository.
+1. Clone  or download the repository.
 2. Place your preferred background image in the root folder as `background.jpg`.
 3. Open `index.html` in your browser.
 4. Start creating and managing events!
 
 ---
 
-## 📁 File Structure
+
